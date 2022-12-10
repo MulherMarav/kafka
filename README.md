@@ -7,4 +7,5 @@ ANDAMENTO - Estudo sobre a mensageria Kafka
 * $ kafka-topics.sh --bootstrap-server localhost:9092 --describe
 * $ kafka-console-producer.sh --broker-list localhost:9092 --topic LOJA_NOVO_PEDIDO
 * $ kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic LOJA_NOVO_PEDIDO --from-beginning
+* $ kafka-consumer-groups.sh --all-groups --bootstrap-server localhost:9092 --describe
 * $ kafka-topics.sh --alter --bootstrap-server localhost:9092 --topic ECOMMERCE_NEW_ORDER --partitions 3
