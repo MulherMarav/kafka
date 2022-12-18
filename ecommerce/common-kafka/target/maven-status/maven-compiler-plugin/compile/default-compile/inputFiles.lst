@@ -1,0 +1,5 @@
+/Users/dyanearaujo/ESTUDO_Kafka/ecommerce/common-kafka/src/main/java/br/com/alura/GsonDeserializer.java
+/Users/dyanearaujo/ESTUDO_Kafka/ecommerce/common-kafka/src/main/java/br/com/alura/GsonSerializer.java
+/Users/dyanearaujo/ESTUDO_Kafka/ecommerce/common-kafka/src/main/java/br/com/alura/KafkaDispatcher.java
+/Users/dyanearaujo/ESTUDO_Kafka/ecommerce/common-kafka/src/main/java/br/com/alura/ConsumerFunction.java
+/Users/dyanearaujo/ESTUDO_Kafka/ecommerce/common-kafka/src/main/java/br/com/alura/KafkaService.java
